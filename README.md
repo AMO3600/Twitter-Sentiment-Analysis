@@ -1,0 +1,5 @@
+# Twitter-Sentiment-Analysis
+
+Throughout 2022, there has been an ongoing saga between Elon Musk and Twitter. Elon Musk initiated a takeover of Twitter was met with resistance which resulted in a volatile acquisition of the company and lead to a trending hashtag and a split in public support for and against Elon.
+Sentiment analysis is a technique used to determine the emotional tone behind words. In the context of Elon Musk's acquisition of Twitter, sentiment analysis was used to gauge the public's reaction to the news. This was be done by collecting tweets about the acquisition with the hashtag ‘TwitterTakeover’ and using natural language processing tools to identify words and phrases that indicate positive or negative sentiment. The results of the analysis provided insight into how people feel about the acquisition and whether it is generally seen as a positive or negative development. Time-series analysis was also used to look at how the public would react to news on the takeover.
+This research was carried out with all #TwitterTakeover tweets from 27/10/2022 – 27/11/2022.
